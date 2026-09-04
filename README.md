@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sirquakealot/pwnage-battery-tray/releases/download/1.0/pwnage.jpg" alt="Logo" width="120">
+  <img src="https://github.com/sirquakealot/pwnage-battery-tray/releases/download/1.0/pwnage.jpg" alt="Logo">
 </p>
 
 <h1 align="center">Pwnage Battery Tray</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/sirquakealot/pwnage-battery-tray/releases/download/1.0/stormbreakermaxcf.jpg" alt="Pwnage StormBreaker Max CF" width="480">
+  <img src="https://github.com/sirquakealot/pwnage-battery-tray/releases/download/1.0/stormbreakermaxcf.jpg" alt="Pwnage StormBreaker Max CF">
 </p>
 
 ---
@@ -21,7 +21,7 @@ official API.
 So I read the protocol off the device and wrote one.
 
 <p align="center">
-  <img src="docs/tray.png" alt="Tray icon" width="420">
+  <img src="https://github.com/sirquakealot/pwnage-battery-tray/releases/download/1.0/tray.jpg" alt="Tray icon">
 </p>
 
 ## What it does
